@@ -15,7 +15,7 @@ user_agent = PyEng Bot 0.1 #this is just a version number its not really needed
 Afterwards, the script will run.
 
 
-----------------------------------------------------------------CHANGELOG----------------------------------------------------------------
+--------------------------------------------------------------CHANGELOG--------------------------------------------------------------
 
 5/3/2017 - Added Reddit Scraper that scrapes for top 5 on r/funny
 
