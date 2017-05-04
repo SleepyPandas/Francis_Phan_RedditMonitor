@@ -4,8 +4,11 @@
 In order to get the script to work, you will need to: import PRAW (Reddit's scraping libary), create a Reddit app, and edit praw.ini. First you will need to pip install Praw. Afterwards, go to https://www.reddit.com/prefs/apps/ and create an app. You will need to save the strings after "personal use script" (this is the client_id) and "secret" (this is the client_secret) for latter use. Then go to praw.ini, which is located in PythonXX\Lib\site-packages\praw\. Add the following:
 
 [bot1]
-client_id = 
-client_secret = 
+
+client_id = XXXXXXXXXXXXXX
+
+client_secret = XXXXXXXXXXXXXXXXXXXXXXXXXX
+
 user_agent = PyEng Bot 0.1
 
 
