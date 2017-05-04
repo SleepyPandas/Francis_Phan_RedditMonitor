@@ -9,7 +9,7 @@ client_id = XXXXXXXXXXXXXX
 
 client_secret = XXXXXXXXXXXXXXXXXXXXXXXXXX
 
-user_agent = PyEng Bot 0.1
+user_agent = PyEng Bot 0.1 #this is just a version number its not really needed
 
 
 Afterwards, the script will run.
